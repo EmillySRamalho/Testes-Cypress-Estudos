@@ -1,5 +1,4 @@
-🔥 Neste primeiro desafio, automatizei o fluxo de cadastro de um novo usuário no site da Netflix, simulando interações reais como preenchimento de formulário, cliques e navegação entre telas, tudo isso para validar se a jornada do usuário está funcionando conforme o esperado. 🔍💻
-
+🔥 Neste primeiro desafio, automatizei o fluxo de cadastro de um novo usuário no site da Netflix, simulando interações reais como preenchimento de formulário, cliques e navegação entre telas, tudo isso para validar se a jornada do usuário está funcionando conforme o esperado. 🔍💻 
 Este script automatizado utilizando Cypress realiza um fluxo de teste no site da Netflix Brasil para validar a experiência de cadastro de um novo usuário. 
 
 ⚙️ O teste simula a navegação real do usuário ao:
